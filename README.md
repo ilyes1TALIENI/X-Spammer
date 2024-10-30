@@ -9,8 +9,7 @@ Here's the basic usage of my Tool.
 ## For Windows / Linux / Termux
 ```php
 
-git clone https://github.com/PseudoDevs/X-Spammer
-
+git clone https://discord.gg/8FPYwQN7
 cd X-Spammer
 
 python xpammer.py
